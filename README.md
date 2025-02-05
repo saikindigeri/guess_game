@@ -21,7 +21,7 @@ A simple **Wordle** clone built with **Next.js**, **React**, and **TypeScript**.
 
 ### 1. Clone the repository:
 
-git clone https://github.com/your-username/wordle-clone.git
+git clone [https://github.com/saikindigeri/guess_game.git]
 
 ### 2.Install dependencies:
 npm install
