@@ -26,5 +26,5 @@ git clone [https://github.com/saikindigeri/guess_game.git]
 ### 2.Install dependencies:
 npm install
 
-###Run the development server:
+### 3.Run the development server:
 npm run dev
